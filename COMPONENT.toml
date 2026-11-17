@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-gstreamer0.10"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-gstreamer0.10 component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
